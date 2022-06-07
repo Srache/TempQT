@@ -1,6 +1,6 @@
 # Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token
 
- ![Archi](./images/Archi.png)
+ ![Archi](./images/archi.png)
 
 
 
@@ -47,22 +47,22 @@ Pretrained models will be released soon.
 
 ### 1. Predicted Error Maps
 
-![supp1](C:\Users\Admin\Desktop\images\supp1.png)
+![supp1](./images/supp1.png)
 
-![supp2](C:\Users\Admin\Desktop\images\supp2.png)
+![supp2](./images/supp2.png)
 
-![supp3](C:\Users\Admin\Desktop\images\supp3.png)
+![supp3](./images/supp3.png)
 
-![supp4](C:\Users\Admin\Desktop\images\supp4.png)
+![supp4](./images/supp4.png)
 
 
 
 ### 2. Perceptual Attention Maps
 
-![supp5](C:\Users\Admin\Desktop\images\supp5.png)
+![supp5](./images/supp5.png)
 
-![supp6](C:\Users\Admin\Desktop\images\supp6.png)
+![supp6](./images/supp6.png)
 
-![supp7](C:\Users\Admin\Desktop\images\supp7.png)
+![supp7](./images/supp7.png)
 
-![supp8](C:\Users\Admin\Desktop\images\supp8.png)
+![supp8](./images/supp8.png)
