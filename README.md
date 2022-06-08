@@ -9,7 +9,7 @@
 ## Environment
  ![](https://img.shields.io/badge/python-3.8-orange.svg) ![](https://img.shields.io/badge/pytorch-1.11.0-green.svg)
 
-> pip install -r  requirements 
+> pip install -r  requirements.txt 
 > 
 > conda env create -f environment.yaml
 
