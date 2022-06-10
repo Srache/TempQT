@@ -9,9 +9,9 @@
 ## Environment
  ![](https://img.shields.io/badge/python-3.8-orange.svg) ![](https://img.shields.io/badge/pytorch-1.11.0-green.svg)
 
-> pip install -r  requirements.txt 
+> $ pip install -r  requirements.txt 
 > 
-> conda env create -f environment.yaml
+> $ conda env create -f environment.yaml
 
 
 
@@ -26,13 +26,13 @@ In this work we use 6 datasets ([LIVE](https://live.ece.utexas.edu/research/qual
 1. Pre-train model for EM. 
 
    ```python
-   python train_pre.py
+   $ python train_pre.py
    ```
 
 2. Final model for score prediction.
 
    ``` python
-   python train_final.py
+   $ python train_final.py
    ```
 
 
