@@ -1,6 +1,6 @@
 # Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token
 
- ![archi](./images/archi.png)
+ ![archi](./images/Archi.png)
 
 
 
