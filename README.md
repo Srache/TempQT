@@ -23,16 +23,16 @@ In this work we use 6 datasets ([LIVE](https://live.ece.utexas.edu/research/qual
 
 ## Training
 
-1. Pre-train model for EM. 
+1. SCL Pre-training. 
 
    ```python
-   $ python train_pre.py
+   $ python train_scl.py
    ```
 
 2. Final model for score prediction.
 
    ``` python
-   $ python train_final.py
+   $ python train.py
    ```
 
 
