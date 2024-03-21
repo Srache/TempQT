@@ -37,9 +37,8 @@ In this work we use 6 datasets ([LIVE](https://live.ece.utexas.edu/research/qual
 
 
 
-## Pretrained Models
-
-<https://drive.google.com/drive/folders/19flHnh2SXNIpVVipU0AH4HcEm2-XU9Cm>
+## Pre-trained Models
+[Google drive](https://drive.google.com/drive/folders/1udroCxP0i38dvPM2PUQybZwY3qZHsw1j)
 
 
 
